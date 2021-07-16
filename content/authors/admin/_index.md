@@ -1,12 +1,14 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Mohammad Dastgheib
+role: PhD Student
+avatar_filename: dastgheib_rcard.jpg
+bio: My research interests include learning and perceptual memory in older
+  adults as well as its applications in early detection of neurodegenerative
+  disorders.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Learning and memory
+  - Computational methods
+  - Aging
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,7 +32,7 @@ education:
   courses:
     - course: PhD Student
       institution: University of California, Riverside
-      year: ""
+      year: 0
     - course: MSc in Psychology
       institution: Queen's University
       year: 2020
@@ -41,9 +43,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am a PhD candidate in Cognitive Neuroscience and work with Aaron Seitz and Ilana Bennett in the University of California, Riverside. The main goal of my PhD project is to study the integrity of locus coeruleus in older adults and its impacts on perceptual learning and memory as well as its applications in early detection of neurodegenerative disorders. My interests also include computational methods and fMRI techniques.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
