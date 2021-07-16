@@ -39,7 +39,7 @@ projects:
 image:
   caption: ""
   focal_point: Right
-  filename: photo_2021-07-15-22.37.54.jpeg
+  filename: featured.jpg
 url_code: ""
 ---
 
