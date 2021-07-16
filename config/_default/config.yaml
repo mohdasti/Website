@@ -5,7 +5,7 @@
 
 title: Mohammad Dastgheib # Website name
 baseurl: 'https://mdastgheib.com/' # Website URL
-copyright: '© {2021} Mohammad Dastgheib' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Mohammad Dastgheib' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
