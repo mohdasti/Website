@@ -20,13 +20,13 @@ event_url: https://www.csbbcs.org/fileadmin/csbbcs/storage/Final_Program_version
 featured: false
 authors: []
 url_video: ""
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1kHctHiA7EenKY6yDTqLpcrPKdrUx6E57NpEmmAPMhBI/edit?usp=sharing"
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: 200 University Ave. West
+  city: Waterloo
+  region: ON
+  postcode: "N2L3G1"
+  country: Canada
 links:
   - icon: twitter
     icon_pack: fab
