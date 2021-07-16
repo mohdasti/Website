@@ -43,6 +43,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD candidate in Cognitive Neuroscience and work with Aaron Seitz and Ilana Bennett in the University of California, Riverside. The main goal of my PhD project is to study the integrity of locus coeruleus in older adults and its impacts on perceptual learning and memory as well as its applications in early detection of neurodegenerative disorders. My interests also include computational methods and fMRI techniques.
+I am a PhD candidate in Cognitive Neuroscience and work with Aaron Seitz and Ilana Bennett in the University of California, Riverside. The main goal of my PhD project is to study the integrity of *locus coeruleus* in older adults and its impacts on perceptual learning and memory as well as its applications in early detection of neurodegenerative disorders. My interests also include computational methods and fMRI techniques.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
