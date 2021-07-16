@@ -12,8 +12,8 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Conference Talk
 location: University of Waterloo
-date: 2019-06-09T18:00:00.000Z
-date_end: 2019-06-09T19:00:00.000Z
+date: 2019-06-09T15:00:00.000Z
+date_end: 2019-06-09T16:00:00.000Z
 all_day: false
 event: Canadian Society for Brain Behaviour & Cognitive Science meeting
 event_url: https://www.csbbcs.org/fileadmin/csbbcs/storage/Final_Program_version_7_May_29th.pdf
