@@ -7,7 +7,7 @@ abstract: >-
   daily activities) as a comparison condition for sleep, while
 
   few studies have examined the role of "quiet waking" in memory consolidation, even though some of the EEG oscillations during quiet waking resemble those present in sleep (e.g., θ activity). Here, we compared the consolidation of declarative (word pair-associates) and non-declarative (marble maze visuo-motor task) learning over a 60-min time interval (with continuous EEG monitoring) filled with either (A) napping; (B) active-waking (watching a video); or (C) quiet-waking (self-guided meditation). Preliminary analyses indicate better recall performance following quiet-waking and napping in the declarative task compared to active waking. For nondeclarative learning, recall performance after quiet-waking and napping without entering slow-wave sleep (SWS) was better than that after active waking or napping with SWS. Together, these results provide evidence that some forms of quiet waking (here: self-guided meditation) can exert beneficial effects on memory consolidation that are similar to those seen with sleep (supported by NSERC).
-slides: "https://docs.google.com/presentation/d/1kHctHiA7EenKY6yDTqLpcrPKdrUx6E57NpEmmAPMhBI/edit?usp=sharing"
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Conference Talk at CSBBCS
