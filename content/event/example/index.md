@@ -1,63 +1,46 @@
 ---
-title: Example Talk
+abstract: >-
+  Numerous studies have reported that, compared to an equivalent period of
+  wakefulness, post-training sleep (overnight or brief daytime naps) benefits
+  memory consolidation. However, most investigations have employed various forms
+  of "active waking" (e.g., videos, computer games, physical exercise, regular
+  daily activities) as a comparison condition for sleep, while
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+  few studies have examined the role of "quiet waking" in memory consolidation, even though some of the EEG oscillations during quiet waking resemble those present in sleep (e.g., θ activity). Here, we compared the consolidation of declarative (word pair-associates) and non-declarative (marble maze visuo-motor task) learning over a 60-min time interval (with continuous EEG monitoring) filled with either (A) napping; (B) active-waking (watching a video); or (C) quiet-waking (self-guided meditation). Preliminary analyses indicate better recall performance following quiet-waking and napping in the declarative task compared to active waking. For nondeclarative learning, recall performance after quiet-waking and napping without entering slow-wave sleep (SWS) was better than that after active waking or napping with SWS. Together, these results provide evidence that some forms of quiet waking (here: self-guided meditation) can exert beneficial effects on memory consolidation that are similar to those seen with sleep (supported by NSERC).
+slides: ""
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: Conference Talk
+location: University of Waterloo
+date: 2019-06-09T18:00:00.000Z
+date_end: 2019-06-09T19:00:00.000Z
+all_day: false
+event: Canadian Society for Brain Behaviour & Cognitive Science meeting
+event_url: https://www.csbbcs.org/fileadmin/csbbcs/storage/Final_Program_version_7_May_29th.pdf
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/MoDastgheib
+publishDate: 2021-07-16T02:28:45.746Z
+tags: []
 projects:
-- example
+  - example
+image:
+  caption: ""
+  focal_point: Right
+  filename: photo_2021-07-15-22.37.54.jpeg
+url_code: ""
 ---
 
 {{% callout note %}}
