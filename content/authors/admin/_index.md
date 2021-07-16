@@ -1,7 +1,7 @@
 ---
 title: Mohammad Dastgheib
 role: PhD Student
-avatar_filename: 00100dportrait_00100_burst20181229224432818_cover.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include learning and perceptual memory in older
   adults as well as its applications in early detection of neurodegenerative
   disorders.
