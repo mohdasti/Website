@@ -2,6 +2,10 @@
 title: Mohammad Dastgheib
 role: PhD Student
 avatar_filename: avatar.jpg
+gender:
+- url: "https://pronoun.is/he"
+  description: "he/him/his"
+  
 bio: My research interests include learning and perceptual memory in older
   adults as well as its applications in early detection of neurodegenerative
   disorders.
