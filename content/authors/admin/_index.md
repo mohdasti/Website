@@ -29,6 +29,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mdastgheib/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-7684-3731
 organizations:
   - name: University of California, Riverside
     url: https://www.ucr.edu/
