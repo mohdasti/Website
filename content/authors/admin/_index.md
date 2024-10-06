@@ -43,13 +43,14 @@ education:
   courses:
     - course: PhD Student
       institution: University of California, Riverside
-      year: 0
+      year: expected 2026
     - course: MSc in Psychology
       institution: Queen's University
       year: 2020
     - course: Hon.BSc in Biological Sciences & Psychology
       institution: York University
       year: 2013
+
 email: ""
 superuser: true
 highlight_name: false
