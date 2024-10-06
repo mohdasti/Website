@@ -12,7 +12,11 @@ bio: My research interests include learning and perceptual memory in older
 interests:
   - Learning and memory
   - Computational methods
+  - Perception
   - Aging
+  - Human Factors 
+  - User Experience
+  - Interaction Design
 social:
   - icon: envelope
     icon_pack: fas
@@ -50,6 +54,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD candidate in Cognitive Neuroscience and work with Aaron Seitz and Ilana Bennett in the University of California, Riverside. The main goal of my PhD project is to study the integrity of *locus coeruleus* in older adults and its impacts on perceptual learning and memory as well as its applications in early detection of neurodegenerative disorders. My interests also include computational methods and fMRI techniques.
+I am a PhD candidate in Cognitive Neuroscience and work with Aaron Seitz (Northeastern University) and Ilana Bennett (University of California, Riverside). The main goal of my PhD project is to study the integrity of *locus coeruleus* in older adults and its impacts on perceptual learning and memory as well as its applications in early detection of neurodegenerative disorders. My interests also include computational methods, behavioral performance, pupillometry, and neuroimaging techniques.
 
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/cv.pdf" "newtab" %}} CV {{% /staticref %}}.
